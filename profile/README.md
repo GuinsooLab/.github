@@ -1,3 +1,3 @@
-#### [GuinsooLab Ecosystem](https://guinsoolab.github.io/glab/) 🌈
+#### [GuinsooLab Ecosystem](https://guinsoolab.github.io/glab/) 
 
-![guinsoolab-ecosystem](/profile/guinsoo-ecosystem.svg)
+![guinsoolab-ecosystem](/profile/platform.svg)
